@@ -1,5 +1,3 @@
-# canoinha
-gestão de canoas
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
